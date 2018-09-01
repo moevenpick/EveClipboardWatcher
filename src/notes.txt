@@ -1,0 +1,6 @@
+1028498107904 velator
+1028469522762 slasher 585
+
+https://zkillboard.com/api/solo/shipTypeID/585/awox/0/startTime/201701010000/
+
+https://zkillboard.com/api/solo/shipTypeID/585/startTime/201701012300/page/100/

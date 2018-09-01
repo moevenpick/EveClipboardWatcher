@@ -1,0 +1,4 @@
+
+https://eveonline-third-party-documentation.readthedocs.io/en/latest/sde/conversions.html
+
+https://cdn1.eveonline.com/data/sde/tranquility/sde-20180827-TRANQUILITY.zip

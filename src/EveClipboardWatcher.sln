@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveClipboardWatcher", "EveClipboardWatcher.csproj", "{7253D9CD-7CC9-41D6-AF3B-361A20ACDD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7253D9CD-7CC9-41D6-AF3B-361A20ACDD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7253D9CD-7CC9-41D6-AF3B-361A20ACDD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7253D9CD-7CC9-41D6-AF3B-361A20ACDD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7253D9CD-7CC9-41D6-AF3B-361A20ACDD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03052634-99EA-4F51-8E79-803D4C93C83C}
+	EndGlobalSection
+EndGlobal
